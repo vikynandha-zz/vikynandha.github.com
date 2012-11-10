@@ -1,0 +1,3 @@
+[submodule "demo/jquery.18n"]
+	path = demo/jquery.18n
+	url = git@github.com:vikynandha/jquery.i18n.git
